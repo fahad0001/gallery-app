@@ -1,0 +1,12 @@
+.thumb-area {
+    position: absolute;
+    width: 95%;
+    margin: 2%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.spinner-container {
+    position: absolute;
+    margin: 15% 0;
+    left: 50%
+}
